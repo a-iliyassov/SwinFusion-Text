@@ -1,0 +1,7 @@
+Dataset/trainsets/*
+Dataset/testsets/*
+Dataset/valsets/*
+!Dataset/*/README.md
+results/
+__pycache__/
+.DS_Store
